@@ -1,12 +1,6 @@
 # Predicting Housing Prices with Multiple Linear Regression
 
-Welcome to this Jupyter notebook where I explore predicting housing prices using Multiple Linear Regression (MLR).
-
-This technique, a cornerstone of machine learning, allows us to forecast a target variable by analyzing multiple input features. For this project, I'll be predicting the average absorbed unit cost of residential properties. The term 'absorbed' refers to units that have been sold after the completion of construction.
-
----
-
-## Data and Objective
+View the project [here](https://github.com/SoManyDistractions/Good-or-Bad-Rent/blob/main/Housing%20Market%20Price%20Predictions%20with%20MLR.ipynb)
 
 #### My approach will involve the following steps:
 
